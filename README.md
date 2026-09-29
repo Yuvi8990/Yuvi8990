@@ -14,7 +14,7 @@ To build a rigorous, production-ready foundation, my self-taught syllabus levera
 
 ### 🛠️ Technical Stack
 - **Languages:** Solidity
-- **Frameworks & Tools:** Foundry (Forge, Anvil, Cast), Hardhat, Git
+- **Frameworks & Tools:** Foundry (Forge, Anvil, Cast), Git
 - **Core Focus:** Gas optimization, state manipulation, vulnerability analysis, and multi-chain deployment
 
 ### 🔭 Currently Working On
