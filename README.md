@@ -3,7 +3,7 @@
 > An independent developer learning and specializing in **Web3 architecture, decentralized finance (DeFi), and smart contract security**.
 
 ### 🚀 My Journey
-In **July 2026**, I initiated a full-time, intensive study of blockchain fundamentals, cryptography, and smart contract architecture. I spent the summer learning Solidity and the Ethereum Virtual Machine (EVM). By **September 2026**, I transitioned from theoretical coursework and browser-based environments into active execution. I am now focused on building, testing, and auditing in public using professional local development toolchains.
+In **July 2026**, I initiated a full-time, intensive study of blockchain fundamentals, cryptography, and smart contract architecture. I spent the summer learning Solidity and the Ethereum Virtual Machine (EVM). By **September 2026**, I transitioned from theoretical coursework and browser-based environments into active execution. I am now focused on building, testing, and auditing using professional local development toolchains.
 
 ### 📚 Autonomous Curriculum
 To build a rigorous, production-ready foundation, my self-taught syllabus leverages industry-leading Web3 platforms:
